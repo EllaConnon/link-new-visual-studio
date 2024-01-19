@@ -1,2 +1,1 @@
-# link-new-visual-studio
-setting up new computer
+# Advanced Tkinter Tutorial
